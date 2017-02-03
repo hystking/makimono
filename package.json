@@ -1,0 +1,22 @@
+{
+  "name": "makimono",
+  "version": "0.0.0",
+  "description": "Nicely bouncy scroller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hystking/makimono.git"
+  },
+  "keywords": [
+    "scroll"
+  ],
+  "author": "hystking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hystking/makimono/issues"
+  },
+  "homepage": "https://github.com/hystking/makimono#readme"
+}
