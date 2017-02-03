@@ -1,6 +1,6 @@
 {
   "name": "makimono",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Nicely bouncy scroller",
   "main": "index.js",
   "scripts": {
